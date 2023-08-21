@@ -1,7 +1,7 @@
-# burgerapp
+# burgerapp  :hamburger:
 You can order burger online through this application.It can be an application focusing on a resturant,where the customer will chosee as he likes various item.
 
-## Features
+## Features :point_down:
 * Signin Option
 * Create Account
 * Profile Section
@@ -11,7 +11,7 @@ You can order burger online through this application.It can be an application fo
 * Payment option
 
 As a back-end database it uses **Firebase**
-## App Screens-
+## App Screens :information_desk_person:
 <p>
     <img src="assets_ss/login.png" width=180px hspace="10" >
     <img src="assets_ss/account.png" width=180px hspace="10" >
