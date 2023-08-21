@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="burgerapp" type="FlutterRunConfigurationType" factoryName="Flutter" editBeforeRun="true">
+    <option name="filePath" value="$PROJECT_DIR$/burgerapp/lib/main.dart" />
+    <method v="2" />
+  </configuration>
+</component>
