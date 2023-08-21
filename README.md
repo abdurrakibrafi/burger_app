@@ -1,16 +1,10 @@
 # burgerapp
+You can order burger online through this application.It can be an application focusing on a resturant,where the customer will chosee as he likes various item.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+* Signin Option
+* Create Account
+* Profile Section
+* Customers Review
+* Online order based on location
+* Payment option
